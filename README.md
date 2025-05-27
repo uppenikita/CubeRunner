@@ -27,7 +27,7 @@ Prerequisites
 - Visual Studio or any C# editor
 
 Installation
-1. Clone the repository:
+1. Clone the repository: https://github.com/uppenikita/CubeRunner.git
 2. Open the project in Unity Hub.
 3. Load the main scene: Assets/Scenes/MainScene.unity
 4. Click Play to start the game in the Unity Editor.
@@ -41,9 +41,13 @@ Installation
 
 🧠 How It Works
 The cube moves forward automatically.
+
 Player can move left and right to avoid obstacles.
+
 Coins are placed along the path. Collecting them increases the score.
+
 The score is shown on the screen during gameplay.
+
 When the cube hits an obstacle, a Game Over window appears with options to restart or quit.
 
 Happy Running! 🧊💨
